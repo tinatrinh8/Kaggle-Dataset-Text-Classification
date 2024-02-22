@@ -12,7 +12,7 @@ ML is fundamentally empirical especially for experimentation to derive solutions
 - Execute a classification empirical study using real-world textual data.
 
 ## ⛈️ Chosen Dataset
-**Airline Passenger Reviews**: Classify 10,761 passenger reviews into promoters, detractors, and passives. [Reduced Dataset]([https://github.com/baharin/CSI4106-Assignment4-Datasets/blob/main/reduced_file_AirPassengerReviews.csv](https://www.kaggle.com/datasets/malharkhatu/airline-passenger-reviews/data))
+**Airline Passenger Reviews**: Classify 10,761 passenger reviews into promoters, detractors, and passives. [Reduced Dataset](https://github.com/baharin/CSI4106-Assignment4-Datasets/blob/main/reduced_file_AirPassengerReviews.csv](https://www.kaggle.com/datasets/malharkhatu/airline-passenger-reviews/data))
 
 ## 🍱 Technologies
 - **Python, Jupyter Notebook, and Colab**: Essential tools for the assignment.
